@@ -8,7 +8,7 @@ class App < Sinatra::Base
 
   end
 
-  get '/name' do
+  get '/hometown' do
 
   end
   "My name is \_\_"
